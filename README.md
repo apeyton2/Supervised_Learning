@@ -1,5 +1,5 @@
 # Supervised_Learning
-In this project we sought to use Logistical regression to classify loans as healthy or high risk to determine if they're worth persuing. This analysis was done on loan atributes like total debt, loan size etc.
+In this project we sought to use Logistical regression to classify loans as healthy or high risk to determine if they're worth persuing. This analysis was done on loan atributes like total debt, loan size etc. We utilize resampling and compare our findings
 
 # Results
 ## Model 1: Original Data
